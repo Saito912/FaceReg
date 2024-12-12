@@ -1,0 +1,1 @@
+下载权重`face_assign.onnx`和`face_reg.onnx`到此目录
